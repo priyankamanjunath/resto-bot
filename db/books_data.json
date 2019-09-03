@@ -1,0 +1,235 @@
+{
+	"mathematics":{
+		"goswami":{
+			"highstakes":{
+				"book":"Harry Potter [M][H]"
+			},
+            "routledge":{
+				"book":"Harry Potter [M][R]"
+			},
+			"jaico":{
+				"book":"Harry Potter [M][J]"
+			}
+		},
+		"foreman":{
+			"highstakes":{
+				"book":"Data Mining HandBook [M][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [M][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [M][J]"
+			}
+		},
+		"hawking":{
+			"highstakes":{
+				"book":"Data Mining HandBook [M][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [M][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [M][J]"
+			}
+		},
+		"dubner":{
+			"highstakes":{
+				"book":"The Last Lecture [M][H]"
+			},
+            "routledge":{
+				"book":"The Last Lecture [M][R]"
+			},
+			"jaico":{
+				"book":"The Last Lecture [M][J]"
+			}
+		},
+		"edward":{
+			"highstakes":{
+				"book":"Fasle Impressions [M][H]"
+			},
+            "routledge":{
+				"book":"Fasle Impressions [M][R]"
+			},
+			"jaico":{
+				"book":"Fasle Impressions [M][J]"
+			}
+		}
+
+	},
+	"economics":{
+		"goswami":{
+			"highstakes":{
+				"book":"Harry Potter [E][H]"
+			},
+            "routledge":{
+				"book":"Harry Potter [E][R]"
+			},
+			"jaico":{
+				"book":"Harry Potter [E][J]"
+			}
+		},
+		"foreman":{
+			"highstakes":{
+				"book":"Data Mining HandBook [E][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [E][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [E][J]"
+			}
+		},
+		"hawking":{
+			"highstakes":{
+				"book":"Data Mining HandBook [E][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [E][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [E][J]"
+			}
+		},
+		"dubner":{
+			"highstakes":{
+				"book":"The Last Lecture [E][H]"
+			},
+            "routledge":{
+				"book":"The Last Lecture [E][R]"
+			},
+			"jaico":{
+				"book":"The Last Lecture [E][J]"
+			}
+		},
+		"edward":{
+			"highstakes":{
+				"book":"Fasle Impressions [E][H]"
+			},
+            "routledge":{
+				"book":"Fasle Impressions [E][R]"
+			},
+			"jaico":{
+				"book":"Fasle Impressions [E][J]"
+			}
+		}
+        
+	},
+	"history":{
+		"goswami":{
+			"highstakes":{
+				"book":"Harry Potter [H][H]"
+			},
+            "routledge":{
+				"book":"Harry Potter [H][R]"
+			},
+			"jaico":{
+				"book":"Harry Potter [H][J]"
+			}
+		},
+		"foreman":{
+			"highstakes":{
+				"book":"Data Mining HandBook [H][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [H][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [H][J]"
+			}
+		},
+		"hawking":{
+			"highstakes":{
+				"book":"Data Mining HandBook [H][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [H][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [H][J]"
+			}
+		},
+		"dubner":{
+			"highstakes":{
+				"book":"The Last Lecture [H][H]"
+			},
+            "routledge":{
+				"book":"The Last Lecture [H][R]"
+			},
+			"jaico":{
+				"book":"The Last Lecture [H][J]"
+			}
+		},
+		"edward":{
+			"highstakes":{
+				"book":"Fasle Impressions [H][H]"
+			},
+            "routledge":{
+				"book":"Fasle Impressions [H][R]"
+			},
+			"jaico":{
+				"book":"Fasle Impressions [H][J]"
+			}
+		}
+
+        
+	},
+	"science":{
+		"goswami":{
+			"highstakes":{
+				"book":"Harry Potter [S][H]"
+			},
+            "routledge":{
+				"book":"Harry Potter [S][R]"
+			},
+			"jaico":{
+				"book":"Harry Potter [S][J]"
+			}
+		},
+		"foreman":{
+			"highstakes":{
+				"book":"Data Mining HandBook [S][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [S][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [S][J]"
+			}
+		},
+		"hawking":{
+			"highstakes":{
+				"book":"Data Mining HandBook [S][H]"
+			},
+            "routledge":{
+				"book":"Data Mining HandBook [S][R]"
+			},
+			"jaico":{
+				"book":"Data Mining HandBook [S][J]"
+			}
+		},
+		"dubner":{
+			"highstakes":{
+				"book":"The Last Lecture [S][H]"
+			},
+            "routledge":{
+				"book":"The Last Lecture [S][R]"
+			},
+			"jaico":{
+				"book":"The Last Lecture [S][J]"
+			}
+		},
+		"edward":{
+			"highstakes":{
+				"book":"Fasle Impressions [S][H]"
+			},
+            "routledge":{
+				"book":"Fasle Impressions [S][R]"
+			},
+			"jaico":{
+				"book":"Fasle Impressions [S][J]"
+			}
+		}
+        
+	}
+}
